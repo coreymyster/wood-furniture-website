@@ -1,2 +1,5 @@
-# Final-Project
-In our final week, we will be adding the additional pages from your earlier storyboard assignment to your interface websites.  Please add content to these new pages and make sure the site is fully functional and error free. 
+# Wood Furniture Website  
+This website is built for a fictional custom wood furniture building company and
+was built using Handlebars JS. Handlebars JS provided the ability to create
+templates for each page in order to reduce development time on the website. The
+website styles were built using LESS.
